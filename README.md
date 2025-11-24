@@ -22,8 +22,6 @@ This project tests how quickly you can react to visual stimuli. The test display
 5. View your reaction time in milliseconds
 6. Click the button again to try another test
 
-## File Structure
-
 
 
 ## Game States
